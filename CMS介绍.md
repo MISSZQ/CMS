@@ -48,5 +48,12 @@
     
     php解释器：将php文件转换成html文件
     
-11、
-  
+11、动态网站的执行流程
+    
+    
+12、PHP运行环境
+
+      Linux系统（LAMP）
+      Window系统（Wamp mysql apache php） 可以用集成环境（wampsever xampp appserv）
+      
+13、    
