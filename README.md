@@ -32,5 +32,5 @@ Java Servlet、Java Mail、JSP、JDBC连接服务;
 ###  教育背景
   * 时间：2015.7-2019.6
   * 学校：河北师范大学
-  * 专业：软件工程
+  * 专业：软件工程（本科）
   * 课程设置：JavaSE、JavaEE、Android基础开发、C/C++、数据结构、网络原理、计算机组成原理 、操作系统、Python(Django框架)、Web开发。
